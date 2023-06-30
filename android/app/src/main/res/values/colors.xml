@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- agent_incoming_pengajuan colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__agent_incoming_pengajuan_ek2_color">#FFFFFF</color>
+	<color name="ellipse_11_color">#EEFBFF</color>
+	<color name="ellipse_10_color">#D5F7FF</color>
+	<color name="ellipse_9_color">#B0F0FF</color>
+	<color name="____time_color">#000000</color>
+	<color name="laki_laki__23_tahun_color">#3C3C43</color>
+	<color name="__01_59_color">#FF4949</color>
+</resources>

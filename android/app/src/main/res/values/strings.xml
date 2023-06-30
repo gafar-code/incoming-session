@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- agent_incoming_pengajuan strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="countdown_finished">00:00</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="____time_string">16:50</string>
+	<string name="laki_laki__23_tahun_string">Laki-laki, 23 tahun</string>
+	<string name="pengajuan_baru_masuk__string">Pengajuan Baru Masuk!</string>
+	<string name="segera_konfirmasi_pengajuan_ini__waktu_tersisa_untuk_menerima_pengajuan__string">Segera konfirmasi pengajuan ini.Waktu tersisa untuk menerima pengajuan:</string>
+	<string name="__01_59_string">-01:59</string>
+	<string name="iqbal_aziz_string">Iqbal Aziz</string>
+	<string name="topik_permasalahan__string">Topik Permasalahan:</string>
+	<string name="prereferensi_saran__string">Prereferensi Saran:</string>
+	<string name="jenis_paket_sesi_curhat__string">Jenis Paket Sesi Curhat:</string>
+	<string name="meningkatkan_rasa_percaya_diri_string">Meningkatkan Rasa Percaya Diri</string>
+	<string name="saya_hanya_ingin_didengarkan_string">Saya hanya ingin didengarkan</string>
+	<string name="chat__call__videocall___60_menit_string">Chat, Call, Videocall - 60 menit</string>
+</resources>
